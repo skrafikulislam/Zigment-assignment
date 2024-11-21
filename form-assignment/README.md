@@ -136,3 +136,8 @@ Developed by Sk Rafikul Islam.
 # Deployed Site Name = zigment-assignment.netlify.app
 
 
+![Screenshot from 2024-11-21 20-54-47](https://github.com/user-attachments/assets/7c29d9a8-eed3-46e2-972b-fafb93abc052)
+
+
+
+
